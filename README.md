@@ -1,2 +1,2 @@
-# sitnikoval.github.io
+# Ситников Алексей
 my project
